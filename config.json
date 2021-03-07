@@ -1,0 +1,9 @@
+{
+    "prefix": "!",
+    "token": "token",
+    "bot_age": 1,
+    "bot_info": {
+        "name" : "Cyberpyon",
+        "version": "v1.0.0"
+    }
+}

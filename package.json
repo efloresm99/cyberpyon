@@ -1,0 +1,16 @@
+{
+  "name": "CyberPyon",
+  "version": "v1.0.0",
+  "description": "",
+  "main": "cyberpyon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eduardo Flores, María Arias",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "eslint": "^7.20.0"
+  }
+}
