@@ -10,7 +10,9 @@
   "author": "Eduardo Flores, María Arias",
   "license": "Apache 2.0",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "discord.js": "^12.5.1",
-    "eslint": "^7.20.0"
+    "eslint": "^7.20.0",
+    "mysql": "^2.18.1"
   }
 }
